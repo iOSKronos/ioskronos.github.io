@@ -2,17 +2,17 @@ Package: cydia
 Version: 1.1.33
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 6816
+Installed-Size: 6848
 Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
-Depends: darwintools, debianutils, dpkg (>= 1.19.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils
+Depends: darwintools, debianutils, dpkg (>= 1.19.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz-utils, zstd
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Provides: bigbossbetarepo, cydia-sources, cydia-lproj
 Filename: debs/cydia_1.1.33_iphoneos-arm.deb
-Size: 1316656
-MD5sum: a8dca5f2119f05412708504c8dcf0e04
-SHA1: 02712a5e581c3ee5d95d0e67ddc5656030911f2c
-SHA256: 82258827cd8857e99ef56c039c3e398573e550c55548f8dee81f6cf2a041fb9e
+Size: 1316784
+MD5sum: de37dd6ecc0dc2134cc7097dd0f0f1c0
+SHA1: d6bce8f2a91c146e4fc29c5ec7f97fc87e71e851
+SHA256: 59a71205cc8ada921c1f1beb6e88f0e723b78b91c072ea05b1e4da4b73e338f1
 Section: Packaging
 Priority: important
 Description: graphical iPhone front-end for APT
