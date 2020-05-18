@@ -1,0 +1,8 @@
+Origin: Kronos Cydia
+Label: Kronos Cydia
+Suite: stable
+Version: 1.0
+Codename: Kronos Cydia
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia
